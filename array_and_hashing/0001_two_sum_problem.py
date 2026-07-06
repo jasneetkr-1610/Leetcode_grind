@@ -6,7 +6,7 @@ You may assume that each input would have exactly one solution, and you may not 
 DIFFICULTY LEVEL: Easy
 
 TIME COMPLEXITY: O(n)
-SPACE COMPLEXITY: O(1)
+SPACE COMPLEXITY: O(n)
 """
 
 
